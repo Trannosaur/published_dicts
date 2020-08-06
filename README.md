@@ -35,4 +35,4 @@ Any additions I've made I relicense under 4.0 as well... if I can?
 # Vietnamese to English dictionary - vi2enwikitxt.txt
 Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org)
 
-Again, a reminder that this data is hella raw, and honestly I've stripped out a bunch of fields I find uninteresting for a dictionary. I'll probably work on getting them back into the data at some point.
+Again, a reminder that this data is hella raw and honestly some work is needed - but hey maybe you'll get some use out of it in its current state -- honestly I've stripped out a bunch of fields I find uninteresting for a dictionary. I'll probably work on getting them back into the data at some point.
