@@ -36,3 +36,10 @@ Any additions I've made I relicense under 4.0 as well... if I can?
 Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org)
 
 Again, a reminder that this data is hella raw and honestly some work is needed - but hey maybe you'll get some use out of it in its current state -- honestly I've stripped out a bunch of fields I find uninteresting for a dictionary. I'll probably work on getting them back into the data at some point.
+
+### Cố gắng giải thích bằng tiếng Việt
+Đay là dữ liệu/cơ sở dữ liệu/CSDL từ điển Việt-Anh. Nguồn gốc kho từ này là hoàn toàn từ Wiktionary Tiếng Anh (en.wiktionary.org). Dữ liệu này rất là thô, vẫn còn có dấu hiệu 'template' của Wiktionary, mà bạn cũng xài được.
+
+Ngoại ra cái này, cũng có FVDP (https://www.informatik.uni-leipzig.de/~duc/Dict/install.html), mà cái đó là GPLv2.
+
+Dữ liệu này theo giấy phép Creative Commons Attribution-ShareAlike 3.0.
