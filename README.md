@@ -40,6 +40,20 @@ Again, a reminder that this data is hella raw and honestly some work is needed -
 ### Cố gắng giải thích bằng tiếng Việt
 Đay là dữ liệu/cơ sở dữ liệu/CSDL từ điển Việt-Anh. Nguồn gốc kho từ này là hoàn toàn từ Wiktionary Tiếng Anh (en.wiktionary.org). Dữ liệu này rất là thô, vẫn còn có dấu hiệu 'template' của Wiktionary, mà bạn cũng xài được.
 
-Ngoại ra cái này, cũng có FVDP (https://www.informatik.uni-leipzig.de/~duc/Dict/install.html), mà cái đó là GPLv2.
+Ngoại ra cái này, cũng có FVDP (https://www.informatik.uni-leipzig.de/~duc/Dict/install.html) - mà có thể GPLv2 sẽ không hợp trường hợp của bạn.
 
+#### Bản quyền
 Dữ liệu này theo giấy phép Creative Commons Attribution-ShareAlike 3.0.
+
+# Mandarin to Vietnamese Dictionary -- zhm2vi.tsv
+Tab separated Mandarin to Vietnamese dictionary, processed from Panlex 2017. This 'dictionary' mixes modern Vietnamese definitions with Hán-Nôm definitions (for example if you look up 四 you'll get both bốn and tứ without any distinction between them), and has a separate entry for definition of the same Chinese Character sequence.
+
+I'm releasing this under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. (https://creativecommons.org/licenses/by-sa/4.0/). 
+
+## Tiếng Việt
+File định dạng trường cách nhau bởi dấu Tab, nguồn gốc từ Panlex 2017. 'Từ điển' này trộn lộn xộn nghĩa hiện đại và hán nôm. Ví dù tra "四“ sẽ kiếm cả bốn và tứ mà không phân biệt gì hết. Mọi nghĩa của một cụm từ chữ Hán sẽ năm ở một hàng riêng.
+
+Kho từ vựng này phát hành theo giấy phép Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. (https://creativecommons.org/licenses/by-sa/4.0/). 
+
+## 中文
+Tab分隔值文件 中（普通话）-越南语词典，依据Panlex 2017. 这个词典有很乱的词条，不分类越南词和罕见的汉越词 - 比如说：“四” 有 bốn （普通的词）和 tứ （汉越词，罕见，只在很正式的书面语复合词）
