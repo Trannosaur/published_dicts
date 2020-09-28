@@ -6,7 +6,7 @@ In the world of Vietnamese language dictionaries, there are few open source dict
 
 ## VN-ZH VIE-ZH VIE-CHN
 
-This is a work in progress, entirely composed of data from the Mandarin language Wiktionary (zh.wiktionary.org).
+This is a work in progress, entirely composed of data from the Mandarin language Wiktionary (zh.wiktionary.org) [Last copied: July 2020]
 
 At the moment it is an entirely /raw/ rip (a lot of the wiki markup is still there), and abandons all the pronunciation templates.
 
@@ -33,7 +33,7 @@ Any additions I've made I relicense under 4.0 as well... if I can?
 署名—相同方式共享 3.0 协议国际版 (CC-BY-SA) (https://zh.wiktionary.org/wiki/Wiktionary:CC_BY-SA_3.0%E5%8D%94%E8%AD%B0%E6%96%87%E6%9C%AC) (https://creativecommons.org/licenses/by-sa/3.0/deed.zh)
 
 # Vietnamese to English dictionary - vi2enwikitxt.txt
-Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org)
+Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org) [Last copied: July 2020]
 
 Again, a reminder that this data is hella raw and honestly some work is needed - but hey maybe you'll get some use out of it in its current state -- honestly I've stripped out a bunch of fields I find uninteresting for a dictionary. I'll probably work on getting them back into the data at some point.
 
@@ -57,3 +57,9 @@ Kho từ vựng này phát hành theo giấy phép Creative Commons Attribution-
 
 ## 中文
 Tab分隔值文件 中（普通话）-越南语词典，依据Panlex 2017. 这个词典有很乱的词条，不分类越南词和罕见的汉越词 - 比如说：“四” 有 bốn （普通的词）和 tứ （汉越词，罕见，只在很正式的书面语复合词）
+
+# Vietnamese to Korean dictionary - vi2kowikitxt.txt
+
+## VN-KR VN-KO VIE-KO VIE-KR
+
+This is the least refined of all the dicts as I know pretty much zero Korean! It's also the smallest of the dictionaries by far. [Last copied: 15th August 2020]
