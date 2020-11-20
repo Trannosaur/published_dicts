@@ -63,3 +63,11 @@ Tab分隔值文件 中（普通话）-越南语词典，依据Panlex 2017. 这�
 ## VN-KR VN-KO VIE-KO VIE-KR
 
 This is the least refined of all the dicts as I know pretty much zero Korean! It's also the smallest of the dictionaries by far. [Last copied: 15th August 2020]
+
+# English-Vietnamese Vietnamese-English word dictionary based on parallel Wikipedia articles - parallelcorpus-article-names-2020-vi-en_wiki.txt
+## VN-EN VIE-EN EN-VN EN-VIE
+
+This is just a list of all Wikipedia articles that have a parallel English and Vietnamese article. Useful for looking up more wonky, technical words. Saves you having to define things like 'electric circuit' in your own dictionary, and lets you focus on more colloquial stuff.
+
+## Tiếng Việt
+Kho từ của mọi trang Wikipedia mà có bản Tiếng Anh và Tiếng Việt.
