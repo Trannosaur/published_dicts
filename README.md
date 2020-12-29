@@ -1,10 +1,9 @@
 # Open sourced dictionaries
 
-In the world of Vietnamese language dictionaries, there are few open source dictionaries. And you'll even find that the bulk of apps out there are just flagrantly stealing data... so I'm gonna try and kickstart some better data by processing Wiktionary into tab separated files people can use in their own apps.
+In the world of Vietnamese language dictionaries, there are few open source dictionaries. And you'll even find that the bulk of apps out there are just flagrantly stealing data and all have the exact same words... so I'm gonna try and kickstart some better data by processing Wiktionary etc. into tab separated files people can use in their own apps.
 
 # Vietnamese to Mandarin dictionary - vi2zhwikitxt.txt
-
-## VN-ZH VIE-ZH VIE-CHN
+Keywords: VN-ZH VIE-ZH VIE-CHN
 
 This is a work in progress, entirely composed of data from the Mandarin language Wiktionary (zh.wiktionary.org) [Last copied: July 2020]
 
@@ -59,15 +58,16 @@ Kho từ vựng này phát hành theo giấy phép Creative Commons Attribution-
 Tab分隔值文件 中（普通话）-越南语词典，依据Panlex 2017. 这个词典有很乱的词条，不分类越南词和罕见的汉越词 - 比如说：“四” 有 bốn （普通的词）和 tứ （汉越词，罕见，只在很正式的书面语复合词）
 
 # Vietnamese to Korean dictionary - vi2kowikitxt.txt
-
-## VN-KR VN-KO VIE-KO VIE-KR
+Keywords: VN-KR VN-KO VIE-KO VIE-KR
 
 This is the least refined of all the dicts as I know pretty much zero Korean! It's also the smallest of the dictionaries by far. [Last copied: 15th August 2020]
 
 # English-Vietnamese Vietnamese-English word dictionary based on parallel Wikipedia articles - parallelcorpus-article-names-2020-vi-en_wiki.txt
-## VN-EN VIE-EN EN-VN EN-VIE
+Keywords: VN-EN VIE-EN EN-VN EN-VIE
 
 This is just a list of all Wikipedia articles that have a parallel English and Vietnamese article. Useful for looking up more wonky, technical words. Saves you having to define things like 'electric circuit' in your own dictionary, and lets you focus on more colloquial stuff.
+
+I don't even know if this kind of thing is copywritable so don't ask me.
 
 ## Tiếng Việt
 Kho từ của mọi trang Wikipedia mà có bản Tiếng Anh và Tiếng Việt.
