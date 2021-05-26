@@ -71,3 +71,10 @@ I don't even know if this kind of thing is copywritable so don't ask me.
 
 ## Tiếng Việt
 Kho từ của mọi trang Wikipedia mà có bản Tiếng Anh và Tiếng Việt.
+
+# French-Vietnamese and Vietnamese-French
+Keywords: VN-FR VIE-FR FR-VIE FR-VI français-tiếng việt vietnamien-français
+Dictionaries created from vi.wiktionary.org (fr->vi, entries in Vietnamese) and fr.wiktionary.org (vi->fr, entries in French). They aren't very cleaned up, and at the moment I'm dropping a lot of the data.
+
+## License
+This data is redistributed under the same license as the origin, the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA)
