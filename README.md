@@ -74,3 +74,26 @@ Dictionaries created from vi.wiktionary.org (fr->vi, entries in Vietnamese) and 
 
 ## License
 This data is redistributed under the same license as the origin, the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA)
+
+# Irish & English
+
+## en.Wiktionary.org GA->EN
+[Last copied from Wiktionary: 16th January 2026]
+Covered by the same license as the origin Wiktionary, the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA)
+
+## Irishionary.com GA->EN
+[The source PDF is from 2011-07-27]
+Irishonary.com's collaborative dictionary, source: https://www.irishionary.com/pdf/download/irishionary.com.ga-en.pdf
+
+Published and republished under the Creative Commons license "Creative Commons Attribution-Share Alike 3.0 United States License.
+
+I've made some minor formatting edits from the PDF obviously to make it easier to process.
+
+## English -> Irish dictionary
+[Last generated 17th January 2026]
+This is just a reversal of both the above dictionaries - rather than a nicely human authored one - it's a little raw due to some complications in the reversing the dictionaries, and I'll work on it more in future.
+
+I don't know how copyright for a derivative work works for this, but I'm releasing it under the same license as the original, the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA)
+
+# Road map
+All of the Wiktionary based ones, I'm going to reparse them based on wiktextract/kaikki dumps rather than raw mediawiki dumps, that should clean up the data significantly. the vi->en from en.wiktionary.org is already like this.
