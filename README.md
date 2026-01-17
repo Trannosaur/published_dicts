@@ -16,8 +16,6 @@ Also, be aware, it is missing an absolute butt tonne of words. Awkward.
 ## License
 This data is redistributed under the same license as the origin, the Creative Commons Attribution-ShareAlike 3.0 Unported License (CC-BY-SA)
 
-Any additions I've made I relicense under 4.0 as well... if I can?
-
 ### 一点翻译器的中文
 
 这是一项正在进行的工作，完全由普通话维基词典(zh.wiktionary.org)的数据组成
@@ -32,14 +30,12 @@ Any additions I've made I relicense under 4.0 as well... if I can?
 署名—相同方式共享 3.0 协议国际版 (CC-BY-SA) (https://zh.wiktionary.org/wiki/Wiktionary:CC_BY-SA_3.0%E5%8D%94%E8%AD%B0%E6%96%87%E6%9C%AC) (https://creativecommons.org/licenses/by-sa/3.0/deed.zh)
 
 # Vietnamese to English dictionary - vi2enwikitxt.txt
-Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org) [Last copied: July 2020]
+Pretty much the same as above, but generated from the English Wiktionary (en.wiktionary.org) [Last copied: January 2026], I actually process them off of the kaikki.org wiktextract made versions now, so they're alright.
 
-Again, a reminder that this data is hella raw and honestly some work is needed - but hey maybe you'll get some use out of it in its current state -- honestly I've stripped out a bunch of fields I find uninteresting for a dictionary. I'll probably work on getting them back into the data at some point.
+This is mainly useful if you want a simple dictionary, if you want all the data it's easier to parse it yourself from kaikki.org or the raw wiktionary dumps.
 
 ### Cố gắng giải thích bằng tiếng Việt
-Đay là dữ liệu/cơ sở dữ liệu/CSDL từ điển Việt-Anh. Nguồn gốc kho từ này là hoàn toàn từ Wiktionary Tiếng Anh (en.wiktionary.org). Dữ liệu này rất là thô, vẫn còn có dấu hiệu 'template' của Wiktionary, mà bạn cũng xài được.
-
-Ngoại ra cái này, cũng có FVDP (https://www.informatik.uni-leipzig.de/~duc/Dict/install.html) - mà có thể GPLv2 sẽ không hợp trường hợp của bạn.
+Đay là dữ liệu/cơ sở dữ liệu/CSDL từ điển Việt-Anh. Nguồn gốc kho từ này là hoàn toàn từ Wiktionary Tiếng Anh (en.wiktionary.org) [Lần copy cuối: Tháng 1/2026]..
 
 #### Bản quyền
 Dữ liệu này theo giấy phép Creative Commons Attribution-ShareAlike 3.0.
@@ -62,7 +58,7 @@ Keywords: VN-KR VN-KO VIE-KO VIE-KR
 
 This is the least refined of all the dicts as I know pretty much zero Korean! It's also the smallest of the dictionaries by far. [Last copied: 15th August 2020]
 
-# English-Vietnamese Vietnamese-English word dictionary based on parallel Wikipedia articles - parallelcorpus-article-names-2020-vi-en_wiki.txt
+# English-Vietnamese & Vietnamese-English word dictionary based on parallel Wikipedia articles - parallelcorpus-article-names-2020-vi-en_wiki.txt
 Keywords: VN-EN VIE-EN EN-VN EN-VIE
 
 This is just a list of all Wikipedia articles that have a parallel English and Vietnamese article. Useful for looking up more wonky, technical words. Saves you having to define things like 'electric circuit' in your own dictionary, and lets you focus on more colloquial stuff.
